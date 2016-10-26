@@ -9,7 +9,7 @@ Esta rotina foi desenvolvida apenas para testes e aprendizado. Ela depende do re
 
 
 ## Screenshot
-![Rodados Advpl](https://raw.github.com/vitorebatista/advpl.translate/master/docs/screenshot.png)
+![Rodados Advpl](./docs/screenshot.png)
 
 ## Quick Start
 * Baixe o arquivo Translate.prw
